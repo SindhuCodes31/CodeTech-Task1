@@ -1,5 +1,4 @@
-![Screenshot 2024-12-23 161640](https://github.com/user-attachments/assets/f63a8384-7c0e-4081-a3c0-8f1923d089eb)
-![Screenshot 2024-12-23 163820](https://github.com/user-attachments/assets/1627b93f-832c-4058-9277-1bd50f9deceb)
+
 Name:SINDHU HANUMANDLA.
 Company: CODETECH IT SOLUTIONS.
 ID: CT08DTO.
@@ -43,5 +42,7 @@ This project helps learners:
 3.Work with conditional statements (switch, if-else) for logic implementation.
 4.Perform basic error handling.
 5.![Screenshot 2024-12-23 161640](https://github.com/user-attachments/assets/33214c09-676b-4eef-a349-88bb2fb4fcc0)
+![Screenshot 2024-12-23 161640](https://github.com/user-attachments/assets/f63a8384-7c0e-4081-a3c0-8f1923d089eb)
+![Screenshot 2024-12-23 163820](https://github.com/user-attachments/assets/1627b93f-832c-4058-9277-1bd50f9deceb)
 Write clean and modular code.
 
