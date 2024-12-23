@@ -1,9 +1,9 @@
-Name:SINDHU HANUMANDLA
-Company: CODETECH IT SOLUTIONS
-ID: CT08DTO
-Domain: Java Programming
+Name:SINDHU HANUMANDLA.
+Company: CODETECH IT SOLUTIONS.
+ID: CT08DTO.
+Domain: Java Programming.
 Duration: December to 2025.
-Mentor: SRAVANI GOUNI
+Mentor: SRAVANI GOUNI.
 
 Overview of the Project
 Project:SIMPLE CALCULATOR
